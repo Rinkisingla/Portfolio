@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Atlas",
+    "description": "A project named Atlas that demonstrates a sleek UI and dynamic data interactions. Built using modern JavaScript principles for performance and maintainability.",
+    "image": "/assets/atlas.png",
+    "tags": ["JavaScript"],
+    "github": "https://github.com/Rinkisingla/Atlas",
+    "url": "https://atlas-gilt-nu.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "Tiktaktoe",
+    "description": "A simple and fun Tic Tac Toe game made with JavaScript. Allows two players to take turns and highlights the winning combination.",
+    "image": "/assets/ticktak.png",
+    "tags": ["JavaScript"],
+    "github": "https://github.com/Rinkisingla/-tiktaktoe",
+    "url": "https://tiktaktoe-zeta.vercel.app/"
+  },
+  {
+    "id": 3,
+    "title": "Currency Converter",
+    "description": "Convert currencies in real-time using exchange rates from a public API. Clean UI with responsive design and accurate data updates.",
+    "image": "/assets/currency.png",
+    "tags": ["JavaScript", "API"],
+    "github": "https://github.com/Rinkisingla/currency-converter",
+    "url": "https://currency-converter-five-beige.vercel.app/"
+  },
+  {
+    "id": 4,
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website to showcase skills, experience, and projects. Built using React and styled with Tailwind CSS for a modern look.",
+    "image": "/assets/portfolio.png",
+    "tags": ["React", "Tailwind CSS"],
+    "github": "https://github.com/Rinkisingla/Portfolio-Website",
+    "url": "#"
+  },
+  {
+    "id": 5,
+    "title": "Firebase Contact App",
+    "description": "Manage contacts with a user-friendly interface built in React. Connects to Firebase for adding, editing, and deleting contacts in real-time.",
+    "image": "/assets/firebase.png",
+    "tags": ["React", "Firebase"],
+    "github": "https://github.com/Rinkisingla/Firebasecontactapp",
+    "url": ""
+  },
+  {
+    "id": 6,
+    "title": "Udacity Landing Page",
+    "description": "A clean and responsive landing page designed as part of the Udacity program. Built with semantic HTML, styled with CSS, and made interactive with JavaScript.",
+    "image": "/assets/uducity.png",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/Rinkisingla/uducity",
+    "url": "firebasecontactapp-nine.vercel.app"
+  },
+  {
+    "id": 7,
+    "title": "Spotify Clone",
+    "description": "A front-end UI clone of Spotify's homepage using only HTML and CSS. Focused on layout, responsiveness, and pixel-perfect design replication.",
+    "image": "/assets/spotify.png",
+    "tags": ["HTML", "CSS"],
+    "github": "https://github.com/Rinkisingla/Spotify-clone",
+    "url": "https://spotify-clone-sigma-one-68.vercel.app/"
+  }
+]

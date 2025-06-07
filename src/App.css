@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+  font-weight: bolder;
+}
+body{
+
+  background: rgb(30, 30, 30);
+  color:white;
+  overflow: hidden;
+  overflow-y: scroll;
+}
