@@ -32,8 +32,8 @@
     "description": "A personal portfolio website to showcase skills, experience, and projects. Built using React and styled with Tailwind CSS for a modern look.",
     "image": "/assets/portfolio.png",
     "tags": ["React", "Tailwind CSS"],
-    "github": "https://github.com/Rinkisingla/Portfolio-Website",
-    "url": "#"
+    "github": "https://github.com/Rinkisingla/Portfolio",
+    "url": "https://portfolio-five-alpha-0qhjuudw9c.vercel.app/"
   },
   {
     "id": 5,
