@@ -1,6 +1,6 @@
 import React from 'react'
 
- import "./app.css"
+ import "./App.css"
 import Navbar from './Components/Navbar'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
