@@ -60,12 +60,12 @@ const About = () => {
             I’m a passionate Software Developer skilled in DSA and full-stack development. I love solving real-world problems with efficient, scalable, and user-focused applications.
           </p> 
           <div className="relative flex justify-center items-center h-40 mt-12">
-            <button className="w-32 h-32 rounded-full bg-amber-400 text-white font-semibold shadow-lg hover:bg-amber-500 transition-all z-10 absolute left-1/2 transform -translate-x-[80%] flex items-center justify-center text-center leading-tight px-2">
+            <NavLink to="/Contact"><button className="w-32 h-32 rounded-full bg-amber-400 text-white font-semibold shadow-lg hover:bg-amber-500 transition-all z-10 absolute left-1/2 transform -translate-x-[80%] flex items-center justify-center text-center leading-tight px-2">
               Contact<br/> Me
-            </button>
-            <button className="w-32 h-32 rounded-full bg-gray-600 text-white font-semibold shadow-xl hover:bg-gray-500 transition-all z-20 absolute left-1/2 transform -translate-x-[20%] flex items-center justify-center text-center leading-tight px-2">
+            </button> </NavLink>
+            <NavLink to="/Contact"><button className="w-32 h-32 rounded-full bg-gray-600 text-white font-semibold shadow-xl hover:bg-gray-500 transition-all z-20 absolute left-1/2 transform -translate-x-[20%] flex items-center justify-center text-center leading-tight px-2">
               Hire Me
-            </button>
+            </button></NavLink>
           </div>
         </div>       
         <div className="md:col-span-2 relative" ref={containerRef}>
