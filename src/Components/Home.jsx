@@ -13,7 +13,7 @@ const Home = () => {
         <img
           src={hero}
           alt="Hero"
-          className="absolute top-[10%] left-0 w-full h-[80%] object-cover opacity-75"
+          className="absolute top-[10%] left-0 w-full h-[75%] object-cover opacity-100"
         />
 
         {/* Text on top */}
