@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { FaPlus, FaMinus } from 'react-icons/fa';
-
+import { NavLink } from 'react-router-dom';
 const aboutSections = [
   {
     title: 'Education',
